@@ -19,9 +19,4 @@ public class CoursesController {
                         return "WebPage";
         }
 
-
-        @RequestMapping("/salam")
-        public String test(){
-                return "aleyke salam";
-        }
 }
